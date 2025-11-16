@@ -1,7 +1,7 @@
 <h1 align="center">Olá! 👋 Eu sou o Vinícius Schonfelder</h1>
 
 <p align="center">
-Desenvolvedor em aprendizado | Focado em desenvolvimento Back-End com C#
+Graduando em Ciência da Computação (4º período) | Focado em desenvolvimento Back-End com C#
 </p>
 
 ---
